@@ -1,0 +1,686 @@
+.navbar navbar-expand-lg bg-body-tertiary {
+    background-color: rgb(218, 0, 0);
+   
+    padding-left: 20px;
+    
+  
+}
+
+.navbar-nav .nav-link {
+    color: green !important;
+    font-size: 20px;
+text-align: center;
+margin: 23px;
+  
+  }
+/* Target the SVG icon */
+.bi-search {
+  width: 54px; /* Adjust the value as needed */
+  height: 24px; /* Adjust the value as needed */
+}
+/* Center the content */
+/* .navbar-collapse {
+  justify-content: center;
+} */
+
+/* Add spacing to the "Donate" button */
+.btn-outline-success {
+  margin-right: 10px; /* Adjust the value as needed */
+}
+
+/* Add spacing to the SVG icon */
+.bi-search {
+  margin-left: 10px; /* Adjust the value as needed */
+}
+
+/* Align the navigation links to the left */
+.navbar-nav {
+  margin-left: auto;
+}
+
+
+  .navbar-nav .nav-link:hover {
+    color:red !important;
+  }
+  
+  /* Navbar dropdown hover fix (default Bootstrap behavior) */
+.navbar-nav .nav-link.dropdown-toggle:hover,
+.navbar-nav .nav-link.dropdown-toggle:focus {
+  background-color: rgba(0, 0, 0, 0.05); /* Optional subtle background change on hover */
+}
+
+/* Show dropdown menu on hover (override Bootstrap default behavior) */
+.navbar-nav .nav-link.dropdown-toggle:hover .dropdown-menu {
+  display: block; /* Show dropdown menu on hover */
+}
+
+  .container-fluid{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+  }
+ 
+  
+
+  img {
+    width: 100%;
+    
+  }
+
+  .p1 {
+    color: #133125;
+    font-size: 20px;
+    line-height: 1.5;
+    
+     margin-left: 130px;;
+     font-family: Montserrat, Arial, Helvetica Neue;
+  
+}
+
+h1 {
+    margin-left: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+/* h1, h4, p {
+  margin: 1;
+} */
+
+
+/* styles.css */
+
+/* styles.css */
+
+/* styles.css */
+
+
+
+.card-with-margin {
+  margin: 10px; /* Adjust margin values as needed */
+}
+
+
+
+
+
+.green{
+  background-color: #4CAF50;
+  width: 100%;
+  height: 40px;
+ 
+}
+
+#p5 {
+  padding: 10px;
+ 
+}
+
+
+
+.logo3 {
+  width: 100px;
+  height: 100px;
+  border-radius: 28px;
+}
+
+/* .logo img  :hover{
+  border-radius: 8px;
+  background-color: white;
+}  */
+
+.class-item {
+  text-align: center;
+}
+
+.card {
+  margin-right: 20px; /* Add space between each card */
+height: 400px; 
+ } */
+
+.card-img-top {
+  height: 50%; /* Reduce the height of the image within the card */
+}
+
+/* Remove borders from cards */
+.card {
+  border: none; /* Remove default card border */
+  box-shadow: none; /* Remove default card shadow */
+}
+
+
+
+
+.hy {
+  color: #4CAF50;
+}
+
+.p9 {
+  color: #133125;
+    font-size: 20px;
+    line-height: 1.3;
+    
+     margin-left: 70px;;
+     font-family: Montserrat, Arial, Helvetica Neue;
+}
+
+
+/* Center the content */
+.navbar-collapse {
+  justify-content: center;
+}
+
+/* Add spacing to the "Donate" button */
+.btn-outline-success {
+  margin-right: 10px; /* Adjust the value as needed */
+}
+
+/* Add spacing to the SVG icon */
+.bi-search {
+  margin-left: 10px; /* Adjust the value as needed */
+}
+
+
+.btn {
+  text-align: center;
+}
+
+.imp {
+  width: 100%;
+}
+
+
+.logo {
+  display: block; /* Ensures logo fills its container vertically */
+  margin: 1rem auto; /* Adds 1rem margin around each logo and centers them horizontally */
+  width: 150px; /* Increases logo width to 150px (adjust as needed) */
+}
+
+.col {
+  padding: 10px;
+}
+
+
+
+
+
+.card:hover {
+  transform: translateY(-5px); /* Move the card up 5 pixels on hover */
+  transition: transform 0.2s ease-in-out; /* Smooth transition effect */
+}
+
+
+footer {
+  background-color: #4CAF50;
+  padding: 20px;
+  text-align: center; 
+  color: white;
+  
+}
+
+.icon3 {
+  display: inline-block; /* Display the div as inline-block to center it */
+}
+
+.icon3 ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block; /* Display the ul as inline-block to center it */
+}
+
+.icon3 li {
+  display: inline-block; 
+ margin-left: 20px;
+}
+
+.icon3 li:first-child {
+  margin-left: 0;
+}
+
+.hq {
+  width: 90%; /* Adjust as needed */
+ 
+ 
+}
+
+
+.icon3 img {
+  width: 30px;
+  height: 30px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.icon3 img:hover {
+  transform: scale(1.2);
+}
+
+
+
+
+/* CONTACT US CSS */
+
+
+.contact-info8, .contact-form8 {
+  text-align: center;
+   margin:0;
+   
+ }
+ .form-group8{
+     text-align: center;
+ }
+ 
+ .container0 .container8 .container8{
+   width: 100%;
+   margin: 0 auto;
+   max-width: 1200px;
+ }
+ 
+ .contact-info8 h1, .contact-form8 h2 {
+   text-align: center;
+   margin-bottom: 20px;
+   color: #333;
+ }
+ 
+ .contact-info8 p {
+   text-align: center;
+   color: #666;
+   margin-bottom: 30px;
+   line-height: 1.5;
+ }
+ 
+ .contact-details8 {
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+   margin-bottom: 30px;
+ }
+ 
+ .contact-details8 div {
+   flex: 1;
+   padding: 10px;
+ }
+ 
+ .contact-details8 h2 {
+   margin-bottom: 10px;
+   color: #3498db;
+   width: 100%;
+ }
+ 
+ .contact-details8 p, .contact-details8 a {
+   color: #666;
+ }
+ 
+ .contact-form8 .form-group8 {
+   margin-bottom: 15px;
+ }
+ 
+ .contact-form8 label {
+   display: block;
+   margin-bottom: 5px;
+   color: #333;
+ }
+ 
+ .contact-form8 input, .contact-form8 textarea {
+  width: 60%;
+   padding: 10px;
+   border: 1px solid #ddd;
+   border-radius: 5px;
+   font-size: 16px;
+   align-items: center;
+ }
+ 
+ .contact-form8 input:focus, .contact-form8 textarea:focus {
+   border-color: #3498db;
+   outline: none;
+ }
+ 
+ .baton8 {
+  display: flex; /* Flexbox for alignment */
+  justify-content: center; /* Center the button horizontally */
+  align-items: center; /* Center the button vertically */
+  margin-top: 20px; /* Margin at the top */
+}
+
+.baton8 button {
+  background-color: #28a745; /* Button background color (green) */
+  border: none; /* Remove default border */
+  color: white; /* Button text color */
+  padding: 15px 30px; /* Button padding */
+  text-align: center; /* Center text */
+  text-decoration: none; /* Remove underline from text */
+  display: inline-block; /* Display as inline-block */
+  font-size: 16px; /* Font size */
+  font-weight: bold; /* Bold text */
+  border-radius: 5px; /* Rounded corners */
+  transition: background-color 0.3s, transform 0.3s; /* Smooth transition */
+  cursor: pointer; /* Pointer cursor on hover */
+}
+
+.baton8 button:hover {
+  background-color: #218838; /* Darker background on hover */
+  transform: scale(1.05); /* Slightly larger on hover */
+}
+
+.baton8 button:active {
+  background-color: #1e7e34; /* Even darker background when clicked */
+  transform: scale(1); /* Reset size when clicked */
+}
+
+
+/* style for what we do */
+
+
+.educate1 {
+  font-family: Arial, sans-serif;
+  color: #333;
+  
+  margin: 0 auto;
+}
+
+.educate1 h2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #4a4a4a;
+  margin-bottom: 20px;
+}
+
+.content1 {
+  display: flex;
+  align-items: flex-start; /* Align items at the top */
+}
+
+.content1 img {
+  height: 300px;
+  width: 300px;
+  padding-top: 0;
+  margin: 30px;
+
+}
+
+.content1 p {
+  font-size: 16px;
+  line-height: 1.6;
+  width: 600px;
+  margin-left: 30px;
+  padding-top: 20px;
+}
+
+
+.educate2 {
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin: 0 auto;
+}
+
+.educate2 h2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #4a4a4a;
+  margin-bottom: 20px;
+}
+
+.content2{
+  display: flex;
+  align-items: flex-start;
+}
+
+.content2 p {
+  font-size: 16px;
+  line-height: 1.6;
+  width: 50%; /* Adjusted width to make room for the image */
+  margin-right: 20px; /* Add some space between the paragraph and the image */
+}
+
+.content2 img {
+  height: 250px;
+  width: 300px;
+  padding: 10px;
+}
+
+
+.educate3 {
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin: 0 auto;
+}
+
+.educate3 h2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #4a4a4a;
+  margin-bottom: 20px;
+}
+
+.content3 {
+  display: flex;
+  align-items: flex-start;
+}
+
+.content3 p {
+  font-size: 16px;
+  line-height: 1.6;
+  width: 50%; /* Adjusted width to make room for the image */
+  margin-right: 20px; /* Add some space between the paragraph and the image */
+}
+
+.content3 img {
+  height: 300px;
+  width: 350px;
+}
+
+
+
+.educate4 {
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin: 0 auto;
+}
+
+.educate4 h2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #4a4a4a;
+  margin-bottom: 20px;
+}
+
+.content4 {
+  display: flex;
+  align-items: flex-start;
+}
+
+.content4 p {
+  font-size: 16px;
+  line-height: 1.6;
+  width: 50%; /* Adjusted width to make room for the image */
+  margin-right: 20px; /* Add some space between the paragraph and the image */
+}
+
+.content4 img {
+  height: 250px;
+  width: 300px;
+  margin: 10px;
+}
+
+
+.educate5 {
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin: 0 auto;
+}
+
+.educate5 h2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #4a4a4a;
+  margin-bottom: 20px;
+}
+
+.content5 {
+  display: flex;
+  align-items: flex-start;
+}
+
+.content5 img {
+  height: 250px;
+  width: 350px;
+  margin-right: 20px; /* Add some space between the image and the paragraph */
+  padding: 10px;
+}
+
+.content5 p {
+  font-size: 16px;
+  line-height: 1.6;
+  width: 50%; /* Adjusted width to make room for the image */
+}
+
+
+.educate6 {
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin: 0 auto;
+}
+
+.educate6 h2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #4a4a4a;
+  margin-bottom: 20px;
+}
+
+.content6{
+  display: flex;
+  align-items: flex-start;
+}
+
+.content6 p {
+  font-size: 16px;
+  line-height: 1.6;
+  width: 50%; /* Adjusted width to make room for the image */
+  margin-right: 20px; /* Add some space between the paragraph and the image */
+}
+
+.content6 img {
+  height: 250px;
+  width: 300px;
+  padding: 10px;
+}
+
+/* .educateimg {
+  width: 450px;
+  height: 450px;
+} */
+
+.container6 {
+  height: 300px;
+  margin: 50px auto;
+  display: flex;
+  justify-content: space-between;
+ 
+}
+
+.container9 {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.box {
+  flex: 1;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 40px;
+  background-color: rgb(167, 233, 136);
+}
+
+.mission9 {
+  margin-right: 20px; /* Margin between mission and vision */
+}
+
+.vision9 {
+  margin-left: 20px;
+}
+
+h2 {
+  color: #333;
+}
+
+p {
+  color: #666;
+  line-height: 1.6;
+}
+
+.box h2 {
+  margin-bottom: 10px;
+}
+
+.box p:first-child {
+  font-weight: bold;
+  color: #222;
+}
+
+
+/* Impact Page Styles */
+.impact-container11 {
+  padding: 40px 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+.impact-intro11 {
+  font-size: 18px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.impact-section11 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 40px;
+}
+
+.impact-box11 {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  flex: 1 1 45%;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.impact-box11:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.impact-box11 img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.impact-box11 h2 {
+  font-size: 22px;
+  margin-bottom: 15px;
+  color: #0056b3;
+  text-align: left;
+}
+
+.impact-box11 p {
+  font-size: 16px;
+  margin-bottom: 0;
+}
